@@ -82,6 +82,6 @@ function SetFilesNeeded(needed) { }
 
 function loaded() {
     if (document.location.protocol === 'file:') {
-        GameDetails('SpaceAge [Betelgeuse]', 'https://static.spaceage.mp/loadingurl/', 'sb_gooniverse_v4', 16, '76561197971055508', 'spaceage', 1, 'en');
+        GameDetails('SpaceAge [Betelgeuse]', 'https://spaceage.mp/loadingurl/', 'sb_gooniverse_v4', 16, '76561197971055508', 'spaceage', 1, 'en');
     }
 }

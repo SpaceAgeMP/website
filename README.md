@@ -6,7 +6,7 @@
 
 ## Useful links
 - [Join server](https://api.spaceage.mp/v2/servers/Betelgeuse/connect)
-- [Scoreboard](https://static.spaceage.mp/scoreboard/)
+- [Scoreboard](scoreboard/)
 - [Discord](https://discord.gg/AVzS2yr)
 
 ## Guides
