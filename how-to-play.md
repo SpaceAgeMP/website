@@ -10,8 +10,8 @@ Getting around, The main spawn planet is used for creating your Miners/Ships and
 
 On several planets there are teleporters that will allow you to travel to other planets.
 
-![Teleporter panel](resources/teleporter.png "Teleporter panel")
-![Teleporter map](resources/teleporter-map.png "Teleporter map")
+![Teleporter panel](assets/images/teleporter.png "Teleporter panel")
+![Teleporter map](assets/images/teleporter-map.png "Teleporter map")
 
 - Green = Can teleport
 - Blue = Planet your on
@@ -21,7 +21,7 @@ On several planets there are teleporters that will allow you to travel to other 
 
 Under the CAF section in the "Q"/F1 menu you will see a section labelled as SpaceAge, this is where you get all the components to start mining once you have a basic ship from SpaceBuild.
 
-![CAF menu](resources/caf-menu.png "CAF menu")
+![CAF menu](assets/images/caf-menu.png "CAF menu")
 
 ### Ore
 
@@ -30,7 +30,7 @@ You will need:
 - Ore Container(s) from Mining Storage (up to 4)
 - *(optional)* The Mining Scanner - this will output data from the asteroid it is pointing at
 
-![Asteroid field](resources/asteroid-field.png "Asteroid field")
+![Asteroid field](assets/images/asteroid-field.png "Asteroid field")
 
 ### Tiberium
 
@@ -41,7 +41,7 @@ You will need:
 - Tiberium Container(s) from Mining Storage (upto 4)
 - *(optional)* Tiberium Holder from Entities->Other (this is to allow for quick empty so you don't have to weld/unweld every time)
 
-![Tiberium and death](resources/tiberium-death.png  "Tiberium and death")
+![Tiberium and death](assets/images/tiberium-death.png  "Tiberium and death")
 
 ### ICE
 
@@ -67,7 +67,7 @@ It is possible to do both of these at the same time but not recommended until at
   3. 10
 
 
-![Ice asteroid field](resources/ice-field.png "Ice asteroid field")
+![Ice asteroid field](assets/images/ice-field.png "Ice asteroid field")
 
 ### Automining
 
