@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <title>Loading...</title>
+
+    <link rel="preload" href="you-indicator.gif" as="image" />
+
+    <link rel="stylesheet" href="../shared.css" />
+    <script src="../shared.js" type="text/javascript"></script>
+
+    <script src="main.js" type="text/javascript"></script>
+</head>
+<body onload="loaded();">
+    <h1>Welcome to SpaceAge, <span id="name">User</span>!</h1>
+    <h2>Your server <span id="servername">N/A</span> is playing on <span id="mapname">N/A</span> right now with <span id="players">?</span>/<span id="maxplayers">?</span> players</h2>
+    <span id="playerData" style="display: none;">
+        <h2>You have played for <span id="playtime"></span> and your current score is <span id="score"></span></h2>
+    </span>
+    <div id="scoreboards" class="scoreboards">
+    </div>
+</body>
+</html>
