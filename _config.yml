@@ -1,2 +1,4 @@
 title: SpaceAge Documentation
 theme: minima
+minima:
+  skin: auto
