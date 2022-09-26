@@ -1,4 +1,4 @@
-# SpaceAge
+# Index
 
 ## Information
 - [Rules](rules.md)
