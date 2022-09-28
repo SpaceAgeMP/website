@@ -1,6 +1,6 @@
 FROM jekyll/builder:3.8 AS builder
 
-COPY src /srv/jekyll
+COPY . /srv/jekyll
 
 RUN jekyll build --source src --destination dist
 
