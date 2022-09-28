@@ -1,4 +1,4 @@
-FROM jekyll/builder:3.8 AS builder
+FROM jekyll/builder:4.0 AS builder
 
 COPY . /srv/jekyll
 
