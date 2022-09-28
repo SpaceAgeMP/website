@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Factions
 
 ## I.C.E.

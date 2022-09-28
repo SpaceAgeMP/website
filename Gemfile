@@ -2,9 +2,12 @@ source "https://rubygems.org"
 
 gem "jekyll", group: :jekyll_plugins
 
+gem "jekyll-seo-tag"
+gem "kramdown-parser-gfm"
+gem "minima"
+
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
-  gem "jekyll-seo-tag"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

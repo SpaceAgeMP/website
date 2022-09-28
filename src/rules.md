@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Rules
 
 ## Cheating Rules

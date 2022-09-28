@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Ship Building
 
 ## Best practices + tips and tricks

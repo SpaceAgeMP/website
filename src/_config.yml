@@ -1,7 +1,12 @@
 title: SpaceAge Documentation
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima@master
+minima:
+  skin: auto
+
 plugins:
 - jekyll-remote-theme
+
+markdown: kramdown
 
 show_downloads: false

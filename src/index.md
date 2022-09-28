@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Index
 
 ## Information
-- [Rules](rules.md)
-- [Factions](factions.md)
+- [Rules](rules.html)
+- [Factions](factions.html)
 
 ## Useful links
 - [Join server](https://api.spaceage.mp/v2/servers/Betelgeuse/connect)
@@ -10,5 +13,5 @@
 - [Discord](https://discord.gg/AVzS2yr)
 
 ## Guides
-- [How to play](how-to-play.md)
-- [Ship building](ship-building.md)
+- [How to play](how-to-play.html)
+- [Ship building](ship-building.html)
