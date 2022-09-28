@@ -9,7 +9,7 @@ I would recommend looking at [https://steamcommunity.com/sharedfiles/filedetails
 
 ## SpaceAge
 
-Getting around, The main spawn planet is used for creating your Miners/Ships and you will spawn on here if your not a part of any [Faction](factions.html).
+Getting around, The main spawn planet is used for creating your Miners/Ships and you will spawn on here if your not a part of any [Faction](factions.md).
 
 On several planets there are teleporters that will allow you to travel to other planets.
 
@@ -74,7 +74,7 @@ It is possible to do both of these at the same time but not recommended until at
 
 ### Automining
 
-[Check rules here](rules.html)
+[Check rules here](rules.md)
 
 ### Terminal (Selling product)
 

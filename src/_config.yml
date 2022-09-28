@@ -6,6 +6,7 @@ minima:
 
 plugins:
 - jekyll-remote-theme
+- jekyll-relative-links
 
 markdown: kramdown
 
