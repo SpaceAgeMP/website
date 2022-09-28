@@ -8,4 +8,4 @@ RUN jekyll build --source src --destination dist
 FROM caddy
 
 COPY Caddyfile /etc/caddy/Caddyfile
-COPY --from=builder dist /srv
+COPY --from=builder /srv/jekyll/dist /srv
