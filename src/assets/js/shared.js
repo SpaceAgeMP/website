@@ -78,7 +78,7 @@ function formatScoreboard(sb, gb, minI, maxI, checkIsUs) {
             sbThisIsYou.style = `grid-column: ${gb - 1}; ${rowCode};`;
             sbThisIsYou.classList.add('scoreboard-indicator');
             const sbThisIsYouImg = document.createElement('img');
-            sbThisIsYouImg.src = '../assets/imagesyou-indicator.gif';
+            sbThisIsYouImg.src = '../assets/images/you-indicator.gif';
             sbThisIsYou.appendChild(sbThisIsYouImg);
             scoreboardContainer.appendChild(sbThisIsYou);
         }
