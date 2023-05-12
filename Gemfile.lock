@@ -67,10 +67,10 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.30.0)
+    rouge (4.1.0)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
-    sass-embedded (1.58.3)
+    sass-embedded (1.62.1)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
     terminal-table (3.0.2)
@@ -98,4 +98,4 @@ DEPENDENCIES
   wdm (= 0.1.1)
 
 BUNDLED WITH
-   2.0.2
+   2.4.10
