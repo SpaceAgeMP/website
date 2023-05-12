@@ -8,7 +8,7 @@ gem "minima", "= 2.5.1"
 
 group :jekyll_plugins do
   gem "jekyll-remote-theme", "= 0.4.3"
-  gem "jekyll-relative-links", "= 0.6.1"
+  gem "jekyll-relative-links", "= 0.7.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
