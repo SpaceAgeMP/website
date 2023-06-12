@@ -17,7 +17,6 @@ const factionToLongTable = {
     legion: 'The Legion',
     miners: 'Major Miners',
     corporation: 'The Corporation',
-    alliance: 'The Alliance',
 };
 
 function populateIfExists(id, data, factionName) {

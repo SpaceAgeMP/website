@@ -33,15 +33,4 @@ Leader: scotty
 *   +11% mining speed bonus (all)
 *   Unlock access to tier II Remote Terminal Access
 
-## The Alliance
-
-Leader: Goose
-
-*   +33% sell bonus for resources (all)
-*   +33% mining speed (Ore & Tiberium)
-*   -33% research cost reduction
-*   Unlock access to tier II Tiberium mining drill & tier II Tiberium storage
-*   Unlock access to tier VI ore mining laser & giant ore storage
-*   Unlock access to tier II Remote Terminal Access
-
 *Originally written by: Bernie*

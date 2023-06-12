@@ -65,10 +65,6 @@ body {
     color: #d2d2d2;
 }
 
-.faction-alliance {
-    color: #e521de;
-}
-
 .faction-corporation {
     color: #0096ff;
 }
@@ -91,10 +87,6 @@ body {
 
 .factionbg-ice {
     background-color: #d2d2d2;
-}
-
-.factionbg-alliance {
-    background-color: #e521de;
 }
 
 .factionbg-corporation {
