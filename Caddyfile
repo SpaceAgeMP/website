@@ -1,4 +1,4 @@
-spaceage.doridian.net {
+spaceage.mp {
     root * /srv
     encode gzip
     file_server
@@ -8,8 +8,8 @@ spaceage.doridian.net {
     }
 }
 
-www.spaceage.doridian.net {
-    redir https://spaceage.doridian.net
+www.spaceage.mp {
+    redir https://spaceage.mp
 
     header {
         Strict-Transport-Security "max-age=31536000; preload; includeSubDomains"

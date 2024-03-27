@@ -127,7 +127,7 @@ async function aggregateLoad(urls) {
         if (allData[url]) {
             continue;
         }
-        allData[url] = fetch(`https://api.spaceage.doridian.net${url}`).then(async res => {
+        allData[url] = fetch(`https://api.spaceage.mp${url}`).then(async res => {
             return {
                 data: await res.json(),
                 status: res.status,
