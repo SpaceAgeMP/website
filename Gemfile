@@ -4,7 +4,7 @@ gem "jekyll", "= 4.3.3", group: :jekyll_plugins
 
 gem "jekyll-seo-tag", "= 2.8.0"
 gem "kramdown-parser-gfm", "= 1.1.0"
-gem "minima", "= 2.5.1"
+gem "minima", "= 2.5.2"
 
 group :jekyll_plugins do
   gem "jekyll-remote-theme", "= 0.4.3"
