@@ -15,7 +15,7 @@ end
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "= 2.0.6"
-  gem "tzinfo-data", "= 1.2025.1"
+  gem "tzinfo-data", "= 1.2025.2"
 end
 
 # Performance-booster for watching directories on Windows
