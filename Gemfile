@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "bigdecimal", "~> 3.1"
 gem "jekyll", "= 4.4.1", group: :jekyll_plugins
 
 gem "jekyll-seo-tag", "= 2.8.0"
