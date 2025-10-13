@@ -1,11 +1,10 @@
 title: SpaceAge
 
-remote_theme: jekyll/minima@master
+theme: minima
 minima:
   skin: auto
 
 plugins:
-- jekyll-remote-theme
 - jekyll-relative-links
 
 markdown: kramdown

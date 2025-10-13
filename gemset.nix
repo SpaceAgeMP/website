@@ -166,17 +166,6 @@
     };
     version = "0.7.0";
   };
-  jekyll-remote-theme = {
-    dependencies = ["addressable" "jekyll" "jekyll-sass-converter" "rubyzip"];
-    groups = ["jekyll_plugins"];
-    platforms = [];
-    source = {
-      remotes = ["https://rubygems.org"];
-      sha256 = "0h2bwl42dig0282366kpxazxb8xafnppnd4yvq2dzcsg90kfgzfk";
-      type = "gem";
-    };
-    version = "0.4.3";
-  };
   jekyll-sass-converter = {
     dependencies = ["sass-embedded"];
     groups = ["default" "jekyll_plugins"];
@@ -355,16 +344,6 @@
       type = "gem";
     };
     version = "4.5.1";
-  };
-  rubyzip = {
-    groups = ["default" "jekyll_plugins"];
-    platforms = [];
-    source = {
-      remotes = ["https://rubygems.org"];
-      sha256 = "0grps9197qyxakbpw02pda59v45lfgbgiyw48i0mq9f2bn9y6mrz";
-      type = "gem";
-    };
-    version = "2.3.2";
   };
   safe_yaml = {
     groups = ["default" "jekyll_plugins"];

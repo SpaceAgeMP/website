@@ -8,7 +8,6 @@ gem "kramdown-parser-gfm", "= 1.1.0"
 gem "minima", "= 2.5.2"
 
 group :jekyll_plugins do
-  gem "jekyll-remote-theme", "= 0.4.3"
   gem "jekyll-relative-links", "= 0.7.0"
 end
 
