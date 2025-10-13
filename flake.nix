@@ -2,6 +2,7 @@
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
     nix-jekyll-builder.url = "git+https://git.chobble.com/chobble/nix-jekyll-builder";
+    nix-jekyll-builder.inputs.nixpkgs.follows = "nixpkgs";
   };
 
   outputs = { self, flake-utils, nix-jekyll-builder }:
