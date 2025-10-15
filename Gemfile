@@ -5,7 +5,7 @@ gem "jekyll", "= 4.4.1", group: :jekyll_plugins
 
 gem "jekyll-seo-tag", "= 2.8.0"
 gem "kramdown-parser-gfm", "= 1.1.0"
-gem "minima", github: "jekyll/minima", ref: "b3385fe"
+gem "minima", github: "jekyll/minima", ref: "bf9ef989246b63536e9db61082f663f1a6d4d9ce"
 
 group :jekyll_plugins do
   gem "jekyll-relative-links", "= 0.7.0"
