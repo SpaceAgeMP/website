@@ -4,6 +4,7 @@
     nix-jekyll-builder.url = "git+https://git.chobble.com/chobble/nix-jekyll-builder";
   };
 
+  # Regenerate gemset.nix: nix-shell -p bundix --run "bundix -l"
   outputs = { self, flake-utils, nix-jekyll-builder }:
     flake-utils.lib.eachDefaultSystem (system:
       let
